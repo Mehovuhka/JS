@@ -1,0 +1,19 @@
+.container{
+    justify-content: center;
+}
+.input{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 900px;
+} 
+.div2 {
+  margin-top: -40px;
+  margin-bottom: 20px;
+  float: right;
+}
+.p{
+  hyphens: auto;
+}
+/* .btn-small i {
+  font-size: 30px;
+} */
