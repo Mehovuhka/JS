@@ -1,0 +1,24 @@
+.container{
+    justify-content: center;
+}
+.input{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 900px;
+} 
+.div2 {
+  margin-top: -30px;
+  /* margin-bottom: -50px; */
+  float: right;
+}
+.p{
+  overflow-wrap: break-word;
+  /* overflow-y: auto; */
+  /* Делает прокрутку вправо влево: overflow-y: auto; */
+}
+/* .btn-small i {
+  font-size: 30px;
+} */
+.spanComplited{
+  content: attr(data-tooltip);
+}
